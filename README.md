@@ -123,4 +123,4 @@ Feel free to reach out for questions or collaboration opportunities.
 
 ### Sami Alyazouri
 📧 samialyazouri@gmail.com
-💼 linkedin.com/in/sami-alyazouri
+💼 [linkedin.com/in/sami-alyazouri](https://www.linkedin.com/in/sami-alyazouri/?locale=en)
