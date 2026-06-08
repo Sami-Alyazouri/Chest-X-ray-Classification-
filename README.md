@@ -120,3 +120,7 @@ jupyter notebook X-Ray_classification_model.ipynb
 ## 📬 Contact
 
 Feel free to reach out for questions or collaboration opportunities.
+
+### Sami Alyazouri
+📧 samialyazouri@gmail.com
+💼 linkedin.com/in/sami-alyazouri
